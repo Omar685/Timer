@@ -10,6 +10,16 @@ The timer counts down from the specified time interval and notifies the user upo
 - Start, stop, pause and reset the timer
 - Set a break time of 30 minutes
 
+## Shortcuts
+- `Enter` for start timer 90 minutes
+- `tab` for pause timer
+- `r` for reset timer
+- `alt` for set background white
+- `shift` for set background black
+- `F11` for show window in Full Screen
+- `esc` for close the application
+- `b` for start timer break 
+
 ## Prerequisites
 - PyQt5==5.15.10
 
